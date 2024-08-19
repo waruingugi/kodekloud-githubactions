@@ -1,2 +1,2 @@
 # kodekloud-githubactions
-## Advanced tutorial by Kodekloud on github actions
+## Advanced tutorial by Kodekloud on github actions.
